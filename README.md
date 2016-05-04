@@ -1,5 +1,6 @@
 # Programathon
-Projeto de Ensino e Aprendizagem de Programação para Olimpíadas
+
+**Projeto de Ensino e Aprendizagem de Programação para Olimpíadas**
 
 Cada problema é representado por uma pasta (diretório) contendo um arquivo com a extensão .pdf com a discussão objetiva sobre como resolver o problema e um arquivo com a extensão .cpp com a resolução. Caso queira inserir referências de um determinado problema, basta criar uma pasta (se não houver) dentro da pasta do problema com o nome "Referências".
 
